@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>AHBottomNavigation</id>
+    <version>2.2.0</version>
+    <title>AHBottomNavigation</title>
+    <authors>Everwealth</authors>
+    <owners>Everwealth</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>AHBottomNavigation bindings for Xamarin.Android</description>
+    <summary>AHBottomNavigation for Xamarin.Android</summary>
+    <copyright></copyright>
+    <language></language>
+    <tags>ahbottomnavigation xamarin android xamarin.android</tags>
+  </metadata>
+  <files>
+    <file src="bin\release\AHBottomNavigation.dll" target="lib\MonoAndroid" />
+  </files>
+</package>
